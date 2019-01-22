@@ -1,0 +1,41 @@
+---
+title: 'Homework #1'
+author: "Andrew Sundberg; andrewsundberg"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##Example of Data Science
+
+  An example of data science is a **Google Search**.  Google uses data science algorithms to deliver the best result that you are looking for. [Link to Photo](https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
+
+##R Version
+
+```{r}
+version
+```
+
+##Git Version
+
+git --version
+
+git version 2.20.1.windows.1
+ 
+    
+##Configure Git by modifying and entering the following commands into the terminal
+
+$ git config --global --list
+
+user.name=Andrew Sundberg
+
+user.email=sundberg@iastate.edu
+    
+##GitHub Username
+
+username: andrewsundberg
+
