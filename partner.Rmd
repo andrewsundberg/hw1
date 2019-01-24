@@ -1,0 +1,21 @@
+---
+title: "partner.Rmd"
+author: "Grant Ruedy"
+date: "1/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Grant Ruedy
+
+GitHub Username = GrantRuedy
+
+Last commit 'Rmd File'
+Commit ID 0c64f81d16ba833278d806f5491624cc7fbe2cf7
+
+I was able to knit it without errors
+
+To make Github easier I would allow for instantaneous access to the collaboarted folder, instead of having to wait for a confirmation email.
